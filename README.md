@@ -17,6 +17,7 @@ page views, clicks, cost per click (CPC) based on country.
 ### Prerequisites
 
 - Ensure you have Python installed on your system.
+- Prior knowledge on [Google AdSense Management API](https://developers.google.com/adsense/management/)
 
 ### Installation
 
@@ -30,6 +31,7 @@ page views, clicks, cost per click (CPC) based on country.
 - Use the `decode.py` to decode your secrets file and paste the string in the `secrets.toml` file
 - Ensure that the `secrets.toml` file is placed in the `.streamlit` directory if
   you are running it locally
+- Read
 
 
 ### Running the App
